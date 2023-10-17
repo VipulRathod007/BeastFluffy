@@ -4,7 +4,7 @@
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 
-# To access non-exposed modules
+# To access non-exposed internal modules
 from operations._IOperable import Ops, IOperable
 
 
